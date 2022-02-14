@@ -16,7 +16,7 @@ function Header() {
   return (
          <div>
              <h3> {logoText} </h3>
-             Current theme = {theme}
+             Current themeeeee = {theme}
         </div>
   )
 }
