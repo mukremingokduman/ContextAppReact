@@ -15,7 +15,7 @@ function Header() {
 
   return (
          <div>
-             <h3> {logoText} </h3>
+             <h3> Append Methods Logo : {logoText} </h3>
              Current theme = {theme}
         </div>
   )
